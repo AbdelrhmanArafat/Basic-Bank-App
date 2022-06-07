@@ -1,0 +1,9 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///h%3A/aswany/courses/android/andriod%20studio/sparks/pubspec.yaml"
+    }
+}
